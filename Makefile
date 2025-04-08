@@ -1,4 +1,4 @@
-NAME = mini_cub3d
+NAME = micro_cub3d
 SRCS = main.c utils.c raycasting.c
 CFLAGS = -Wall -Werror -Wextra
 OBJ_DIR = obj
